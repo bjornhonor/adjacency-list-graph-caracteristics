@@ -1,0 +1,95 @@
+exemplo 0 True 0.42857142857142855 
+exemplo 0 True 0.42857142857142855 
+exemplo 0 True 0.42857142857142855 
+zachary 0 True 0.13903743315508021 
+exemplo 0 True 0.42857142857142855 
+ponte 2 True 1.1666666666666667 
+exemplo 0 True 0.42857142857142855 
+exemplo 0 True 0.42857142857142855 
+exemplo 0 True 0.42857142857142855 
+exemplo 0 True 0.42857142857142855 
+zachary 0 True 0.13903743315508021 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 2 True 1.1666666666666667 
+ponte 
+ponte 
+ponte 
+ponte 
+ponte 
+ponte 
+ponte 
+exemplo 
+ponte 
+ponte 
+exemplo 
+zachary 
+ponte 
+exemplo 
+ponte 
+exemplo 
+zachary 
+ponte 
+ponte 
+ponte 
+exemplo 
+zachary 
+exemplo 
+zachary 
+ponte 
+ponte 
+zachary 
+exemplo 
+ponte 
+exemplo 
+zachary 
+ponte 
+ponte 
+zachary 
+exemplo 
+exemplo 0 0.428 
+ponte 2 True 1.166 
+exemplo 0 True 0.428 
+zachary 0 True 0.139 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+exemplo 0 True 0.428 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
+ponte 2 True 1.166 
